@@ -1,0 +1,1 @@
+This is a machine learning project I completed as part of my data science qualification. The dataset comes from the famous Cleveland Clinic Foundation, which recorded information on various patient characteristics, including age and chest pain, to try to classify the presence of heart disease in an individual.
